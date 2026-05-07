@@ -1,0 +1,24 @@
+# 🔢 Analisador de Números
+
+Projeto desenvolvido com **HTML5, CSS3 e JavaScript** para adicionar e analisar números informados pelo usuário.
+
+## 🚀 Funcionalidades
+
+- Adicionar números
+- Validar valores repetidos
+- Exibir:
+  - Maior número
+  - Menor número
+  - Soma
+  - Média
+  - Quantidade de números
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📸 Preview
+
+```
